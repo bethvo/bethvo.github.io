@@ -20,7 +20,7 @@ export default {
 		extend: {
 			fontFamily: {
 				'body': ['Montserrat', 'system-ui', 'sans-serif'],
-				'display': ['Playfair Display', 'serif'],
+				'display': ['Space Grotesk', 'system-ui', 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
